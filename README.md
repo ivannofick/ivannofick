@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ivannofick - aka [ivannofick](https://ruangapp.com)
+# Hi there 👋, I'm ivannofick - aka [ivan](https://www.linkedin.com/in/ivannofick-ad-ha-nugraha-47250b173/)
 
 ## About me:
 - 🔭 I’m currently learn new technologi
