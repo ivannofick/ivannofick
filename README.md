@@ -2,9 +2,9 @@
 
 ## About me:
 - 🔭 I’m currently learn new technologi
-- 🌱 I’m currently learning web develop and mobile develop
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🌱 I’m currently learning web develop and configuration server
+- 👯 I’m looking to collaborate as FullStack Developer
+- 🤔 I’m looking for suggest for Automation Application
 - 💬 Ask me about anything
 - 📫 How to reach me: ivannofick@gmail.com
 
