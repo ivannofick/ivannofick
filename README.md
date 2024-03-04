@@ -31,6 +31,6 @@
 ### Connect with me:
 [webdev]: https://github.com/ivannofick/ivannofick
 <br />
-[<img align="left" alt="Github" width="30px" src="https://banner2.cleanpng.com/20180615/kff/kisspng-computer-icons-github-logo-github-5b23f7d7474c14.790619341529083863292.jpg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Github" width="30px" src="https://banner2.cleanpng.com/20180615/kff/kisspng-computer-icons-github-logo-github-5b23f7d7474c14.790619341529083863292.jpg" style="padding-right:10px;" />](https://github.com/ivannofick)
+[<img align="left" alt="Github" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="padding-right:10px;" />](https://id.linkedin.com/in/ivannofick-ad-ha-nugraha-47250b173)
 
