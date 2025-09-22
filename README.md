@@ -7,7 +7,7 @@
 - 🤔 I’m looking for suggest for Automation Application
 - 💬 Ask me about anything
 - 📫 How to reach me: ivannofick@gmail.com
-- 🫖 Independen Creator Framework [TeapotApps](https://github.com/teapotapps)
+- ☕️ Independen Creator Framework [TeapotApps](https://github.com/teapotapps)
 
 ---
 
@@ -16,7 +16,7 @@
 [<img align="left" alt="ReactJs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/440px-React-icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/500px-Angular_full_color_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Laravel" width="30px" src="https://laravel.com/img/logomark.min.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Codeigniter 3" width="30px" src="https://www.codeigniter.com/assets/icons/ci-footer.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Codeigniter 3" width="30px" src="https://codeigniter.com/favicon.ico" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Native Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/NativeScript_Logo.png/128px-NativeScript_Logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="NodeJs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/240px-Node.js_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Github" width="30px" src="https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png" style="padding-right:10px;" />][webdev]
